@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "885CBE0680BFCA1587E03E988E7E2C10ECF0CE2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05DE5778A18CBC2F2B466A382C6F444721C80738" : 0,
+    "885CBE0680BFCA1587E03E988E7E2C10ECF0CE2C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF77A046-120F-4E15-9AE5-3DB3F0D7C17D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05DE5778A18CBC2F2B466A382C6F444721C80738" : "",
+    "885CBE0680BFCA1587E03E988E7E2C10ECF0CE2C" : "%E4%B8%83%E7%89%9B%E7%9B%B4%E6%92%ADdemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LiveDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LiveDemo\/LiveDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/koocui\/FMDB_demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05DE5778A18CBC2F2B466A382C6F444721C80738"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/koocui\/LiveDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "885CBE0680BFCA1587E03E988E7E2C10ECF0CE2C"
+    }
+  ]
+}
